@@ -1,6 +1,7 @@
 Toy robot
 
-This project was fisnished based on React + redux;
+Nothing but a robot game.
+React + redux
 
 ## Available Scripts
 
